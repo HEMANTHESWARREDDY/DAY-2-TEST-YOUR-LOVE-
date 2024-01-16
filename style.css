@@ -1,0 +1,55 @@
+
+body{
+    background-color:gainsboro;
+}
+.main {
+    background-color:gainsboro;
+    color: crimson;
+    text-align: center;
+}
+
+#img{
+    margin-left: 40%;
+    
+}
+
+#form{
+    margin: 10px;
+    color: rgb(214, 13, 173);
+    background-color:gainsboro;
+    box-shadow: inset;
+}
+
+#g-name{
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 26%;
+}
+#b-name{
+    margin-left: 4%;
+    font-family: fantasy;
+    font-size: large;
+}
+#g-dob{
+    margin-left: 34.2%;
+    font-family: fantasy;
+    font-size: large;
+}
+#b-dob{
+    margin-left: 4.0%;
+    font-family: fantasy;
+    font-size: large;
+}
+button{
+    align-items: center;
+    align-content: center;
+    margin-left: 46%;
+    background-color: black;
+    color: aliceblue;
+}
+#vyy ,#vyy1,#vyy2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(192, 13, 153);
+}
